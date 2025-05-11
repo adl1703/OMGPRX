@@ -3,13 +3,13 @@ import json
 import re
 import os
 
-LINKMFP = "https://tuonome.hf.space"
-PASSWORD = "tuapassword"
+LINKMFP = "https://asciughino-omg-tv.hf.space"
+PASSWORD = "api"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
-USR = "TUO_USER_GITHUB"
-REPO = "TUO_BRANCH_GITHUB"
+USR = "adl1703"
+REPO = "letsgo"
 
 OUTPUT_FILE = "channels_italy.m3u8"
 BASE_URL = "https://vavoo.to"
