@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-LINKMFP = "https://asciughino-omg-tv.hf.space"
+LINKMFP = "https://asciughino.hf.space"
 PASSWORD = "api"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
