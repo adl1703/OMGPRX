@@ -577,6 +577,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
+                        "channel_id": "918"
+                    },
+                    {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426"
                     },
@@ -668,6 +672,10 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
+                        "channel_id": "918"
                     },
                     {
                         "channel_name": "SuperSport Premier League",
@@ -782,6 +790,10 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
+                        "channel_id": "918"
                     },
                     {
                         "channel_name": "SuperSport Premier League",
