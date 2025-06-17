@@ -8,3 +8,12 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://n
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="20:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Fluminense vs Borussia Dortmund" tvg-name="17:00 FIFA Club World Cup : Fluminense vs Borussia Dortmund - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Spain U21 vs Italy U21" tvg-name="20:00 UEFA Euro U-21 : Spain U21 vs Italy U21 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 2 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="19:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium879/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
