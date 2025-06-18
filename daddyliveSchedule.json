@@ -499,6 +499,10 @@
                         "channel_id": "415"
                     },
                     {
+                        "channel_name": "DAZN PL",
+                        "channel_id": "261"
+                    },
+                    {
                         "channel_name": "SuperSport M\u00e1Ximo 1 HD",
                         "channel_id": "572"
                     },
@@ -669,6 +673,10 @@
                     {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426"
+                    },
+                    {
+                        "channel_name": "DAZN PL",
+                        "channel_id": "261"
                     },
                     {
                         "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
@@ -887,6 +895,10 @@
                         "channel_id": "20"
                     },
                     {
+                        "channel_name": "DAZN PL",
+                        "channel_id": "261"
+                    },
+                    {
                         "channel_name": "DAZN Portugal FIFA Mundial de Clubes",
                         "channel_id": "918"
                     },
@@ -1041,6 +1053,10 @@
                     {
                         "channel_name": "SporTV Brazil",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "DAZN PL",
+                        "channel_id": "261"
                     },
                     {
                         "channel_name": "ANT1 Greece",
