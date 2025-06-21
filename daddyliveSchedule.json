@@ -1,5 +1,187 @@
 {
     "Saturday 21st June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "East vs West Armwrestling 18",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ICW: Pour Wan Oot 2025, Night 1",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Atomic Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Top Level Pro 20 Grappling Series",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Lucas Oil Firecracker 100 at Lernerville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 USAC Open Wheel Madness at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "World of Outlaws Sprint Cars Husets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Thunder on the Thruway at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 IRA Sprints/Road America Challenge at Plymouth Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2025 Supermodified 50 at Oswego Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Dirt Kings Tour 141",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 NASCAR Weekly Racing at Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "American Sprint Car Series Batesville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "BKB 42: Music City Brawl",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2025 Pit Fighting Championship: Submission Series 1",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "MMA Mexico 5",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "166"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -2078,7 +2260,7 @@
         ],
         "Tennis</span>": [
             {
-                "time": "10:00",
+                "time": "14:19",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 6",
                 "channels": [
                     {
