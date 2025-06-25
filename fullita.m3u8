@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA U19 European Championship Women Semi Final 1 - France U19 vs Portugal U19" tvg-name="16:00 UEFA U19 European Championship Women Semi Final 1 : France U19 vs Portugal U19 - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+#EXTINF:-1 tvg-id="UEFA U19 European Championship Women Semi Final 1 - Spain U19 vs Italy U19" tvg-name="16:00 UEFA U19 European Championship Women Semi Final 1 : Spain U19 vs Italy U19 - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Bayern München" tvg-name="20:00 FIFA Club World Cup : Benfica vs Bayern München - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
@@ -7,4 +7,13 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://n
 
 #EXTINF:-1 tvg-id="EUROBASKET (W) Quarter-finals 1 - France W vs Lithuania W" tvg-name="15:30 EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sports 1 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="UEFA Euro U21 - England U21 vs Netherlands U21" tvg-name="17:00 UEFA Euro U21 : England U21 vs Netherlands U21 - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="UEFA Euro U21 - Semi Final 2 : Germany U21 vs France U21" tvg-name="20:00 UEFA Euro U21: Semi Final 2 : Germany U21 vs France U21 - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs River Plate" tvg-name="02:00 FIFA Club World Cup : Internazionale vs River Plate - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
