@@ -4529,15 +4529,11 @@
         "Ice Hockey</span>": [
             {
                 "time": "17:00",
-                "event": "Hlinka Gretzky Cup Semifinal: Teams TBA",
+                "event": "Hlinka Gretzky Cup Semifinal : Canada U18 vs USA U18",
                 "channels": [
                     {
                         "channel_name": "NHL Network",
                         "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
                     },
                     {
                         "channel_name": "TSN1",
@@ -4546,6 +4542,16 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Hlinka Gretzky Cup Semifinal : Sweden U18 vs Finland U18",
+                "channels": [
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
                     }
                 ]
             },
