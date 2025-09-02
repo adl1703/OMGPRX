@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie C - Forli vs Ravenna" tvg-name="19:30 Italy - Serie C : Forli vs Ravenna - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Forli vs Ravenna" tvg-name="19:30 Italy - Serie C : Forli vs Ravenna - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Forli vs Ravenna" tvg-name="19:30 Italy - Serie C : Forli vs Ravenna - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Nuova Monterosi vs Pineto" tvg-name="20:00 Italy - Serie C : Nuova Monterosi vs Pineto - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="World Championship Women - USA W vs Canada W" tvg-name="11:00 World Championship Women : USA W vs Canada W - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="World Championship Women - Turkey W vs Slovenia W" tvg-name="14:30 World Championship Women : Turkey W vs Slovenia W - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="19:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai 2 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
