@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="17:30 Italy - Serie A : Parma vs Torino - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Ospitaletto vs Alcione" tvg-name="19:30 Italy - Serie C : Ospitaletto vs Alcione - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 256 Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Cittadella vs Pro Patria" tvg-name="19:30 Italy - Serie C : Cittadella vs Pro Patria - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Pro Vercelli" tvg-name="19:30 Italy - Serie C : Vicenza vs Pro Vercelli - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Pro Vercelli" tvg-name="19:30 Italy - Serie C : Vicenza vs Pro Vercelli - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Arena Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Picerno vs Foggia" tvg-name="19:30 Italy - Serie C : Picerno vs Foggia - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Picerno vs Foggia" tvg-name="19:30 Italy - Serie C : Picerno vs Foggia - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Giugliano vs Sorrento" tvg-name="19:30 Italy - Serie C : Giugliano vs Sorrento - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 255 Italia
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="19:45 Italy - Serie A : Genoa vs Lazio - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="19:45 Italy - Serie A : Genoa vs Lazio - 29/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
 #EXTINF:-1 tvg-id="Italy - Serie B - Sampdoria vs Catanzaro" tvg-name="16:00 Italy - Serie B : Sampdoria vs Catanzaro - 30/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
