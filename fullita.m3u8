@@ -35,6 +35,18 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://n
 #EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Lecce" tvg-name="14:00 Italy - Serie A : Parma vs Lecce - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Zona DAZN 2 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
+#EXTINF:-1 tvg-id="Italy - Serie B - Bari 1908 vs Calcio Padova" tvg-name="14:00 Italy - Serie B : Bari 1908 vs Calcio Padova - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Venezia vs Frosinone" tvg-name="14:00 Italy - Serie B : Venezia vs Frosinone - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Monza vs Catanzaro" tvg-name="14:00 Italy - Serie B : Monza vs Catanzaro - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Avellino vs Mantova" tvg-name="14:00 Italy - Serie B : Avellino vs Mantova - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
 #EXTINF:-1 tvg-id="Bundesliga - Borussia Dortmund vs RB Leipzig" tvg-name="14:30 Bundesliga : Borussia Dortmund vs RB Leipzig - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 258 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium193/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
@@ -46,6 +58,9 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://n
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - Metz vs Olympique Marseille" tvg-name="16:00 France - Ligue 1 : Metz vs Olympique Marseille - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Palermo" tvg-name="16:15 Italy - Serie B : Spezia vs Palermo - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Renate vs Cittadella" tvg-name="16:30 Italy - Serie C : Renate vs Cittadella - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
