@@ -56,9 +56,6 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://d
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO  (D)
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium881/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Sky", Sky Cinema Collection  (D)
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium859/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", Sky Cinema Uno  (D)
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium860/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
@@ -67,9 +64,6 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://w
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Sky", Sky Cinema Comedy  (D)
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium862/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
-
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Sky", Sky Cinema Romance  (D)
-https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium864/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Sky", Sky Cinema Family  (D)
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium865/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
