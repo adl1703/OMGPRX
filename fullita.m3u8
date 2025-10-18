@@ -1,6 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Italy - Serie A (women) - Sassuolo vs Como" tvg-name="11:30 Italy - Serie A (women) : Sassuolo vs Como - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie A (women) - Genoa vs Ternana" tvg-name="11:30 Italy - Serie A (women) : Genoa vs Ternana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium59/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
 #EXTINF:-1 tvg-id="England - Premier League - Nottingham Forest vs Chelsea" tvg-name="12:30 England - Premier League : Nottingham Forest vs Chelsea - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Renate vs Dolomiti Bellunesi" tvg-name="13:30 Italy - Serie C : Renate vs Dolomiti Bellunesi - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 256 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://ddy6new.newkso.ru/ddy6/premium207/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Triestina vs Pergolettese" tvg-name="13:30 Italy - Serie C : Triestina vs Pergolettese - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium161/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
@@ -10,6 +19,9 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://w
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Sorrento vs Cosenza" tvg-name="13:30 Italy - Serie C : Sorrento vs Cosenza - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium162/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Virtus Casarano vs Foggia" tvg-name="13:30 Italy - Serie C : Virtus Casarano vs Foggia - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://zekonew.newkso.ru/zeko/premium213/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Crotone vs Monopoli" tvg-name="13:30 Italy - Serie C : Crotone vs Monopoli - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium164/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
@@ -31,6 +43,9 @@ https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://d
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Ospitaletto vs Cittadella" tvg-name="16:30 Italy - Serie C : Ospitaletto vs Cittadella - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium164/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Gubbio vs Nuova Monterosi" tvg-name="16:30 Italy - Serie C : Gubbio vs Nuova Monterosi - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://zekonew.newkso.ru/zeko/premium213/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Pianese vs Bra" tvg-name="16:30 Italy - Serie C : Pianese vs Bra - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
 https://asciughino.hf.space/proxy/hls/manifest.m3u8?api_password=api&d=https://windnew.newkso.ru/wind/premium161/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxextreamplay.xyz%2F&h_origin=https%3A%2F%2Fxextreamplay.xyz
